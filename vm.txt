@@ -1,0 +1,1 @@
+az group create --name rg1 --location eastus --tags Environment=devtest owner=ayushi
